@@ -15,7 +15,7 @@ map "/" do
   }
 end
 
-map "/asteroids" do
+map "/Asteroids" do
   run lambda { |env|
     [
       200,
